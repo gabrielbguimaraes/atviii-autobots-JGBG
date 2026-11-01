@@ -1,15 +1,5 @@
 # AutoManager - Microsserviço AutoBots (ATVIII)
 
-Microsserviço Spring Boot para gerenciamento de rede de manutenção veicular e autopeças.
-
-## Tecnologias
-- Java 17
-- Spring Boot 2.6.7
-- Spring Data JPA
-- Spring HATEOAS (Nível 3 de Richardson)
-- H2 Database (em memória) / MySQL
-- Lombok
-
 ## Funcionalidades
 - CRUD completo para todas as entidades: `Empresa`, `Usuario`, `Veiculo`, `Mercadoria`, `Servico`, `Venda`, `Credencial`, `Documento`, `Email`, `Endereco` e `Telefone`.
 - Endpoints de associação e vínculos entre entidades.
